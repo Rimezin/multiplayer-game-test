@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/multiplayer-game-test/static/css/main.ee281f54.css",
+    "main.js": "/multiplayer-game-test/static/js/main.c48a513f.js",
+    "static/js/845.bbb6f73f.chunk.js": "/multiplayer-game-test/static/js/845.bbb6f73f.chunk.js",
+    "static/media/Pixelland.mp3": "/multiplayer-game-test/static/media/Pixelland.44e26f3de717550faca1.mp3",
+    "static/media/toggle.wav": "/multiplayer-game-test/static/media/toggle.1b36d2edfd59606dc2a2.wav",
+    "static/media/joined.wav": "/multiplayer-game-test/static/media/joined.9ea13ad37866a31411ac.wav",
+    "static/media/coin.wav": "/multiplayer-game-test/static/media/coin.6a2a0b588e62ad2e9820.wav",
+    "static/media/exit.wav": "/multiplayer-game-test/static/media/exit.f3aa42a5abeb3bc33a5a.wav",
+    "index.html": "/multiplayer-game-test/index.html",
+    "main.ee281f54.css.map": "/multiplayer-game-test/static/css/main.ee281f54.css.map",
+    "main.c48a513f.js.map": "/multiplayer-game-test/static/js/main.c48a513f.js.map",
+    "845.bbb6f73f.chunk.js.map": "/multiplayer-game-test/static/js/845.bbb6f73f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee281f54.css",
+    "static/js/main.c48a513f.js"
+  ]
+}
